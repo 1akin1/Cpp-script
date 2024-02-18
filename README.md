@@ -8,4 +8,4 @@ chmod +x cpp.sh
 
 Then you can run your code: 
 
-./c.sh project.c
+./cpp.sh project.c
